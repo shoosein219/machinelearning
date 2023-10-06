@@ -3,7 +3,7 @@ different tools used in microbiome research to understand patterns
 
 ## 1. Random forest regressor: training model.py ##
  USING Parallel/Bootstrap Aggregation (Bagging) method: creates training subset from sample data
-# data used:# https://www.kaggle.com/datasets/usharengaraju/indian-women-in-defense
+data used: https://www.kaggle.com/datasets/usharengaraju/indian-women-in-defense
 
 RNA-seq data from the human airway smooth muscle (HASM) transcriptome  
 Data collected to understand treatment of drugs on asmatic patients
