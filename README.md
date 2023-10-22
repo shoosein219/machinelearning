@@ -1,5 +1,5 @@
 # machinelearning (random forest)
-different tools used in microbiome research to understand patterns
+using Random forest tools used in microbiome research to understand patterns
 
 ## 1. Random forest regressor: training model.py ##
  USING Parallel/Bootstrap Aggregation (Bagging) method: creates training subset from sample data
