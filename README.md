@@ -1,4 +1,4 @@
-# machinelearning
+# machinelearning (random forest)
 different tools used in microbiome research to understand patterns
 
 ## 1. Random forest regressor: training model.py ##
