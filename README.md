@@ -13,7 +13,7 @@ testing the effect of glucocorticosteroidal use in combination with more the com
 [ipynb_PY_script] (/Ex_MLwithGeneExpData.ipynb)
 
 GRAPHS
-- HISTOGRAM
+- Histogram
   ![Histogram](/figure_1.png)
 - actual vs. predicted values
 
