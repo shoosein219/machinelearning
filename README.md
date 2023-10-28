@@ -27,13 +27,13 @@ GRAPHS
 4. Train and evaluate model
 
    
-VIZ_1: Model integrity - (1) Training loss across epochs (2) Testing Accuracy of Model across Epochs
+VIZ_1: Model integrity - line graphs (1) Training Loss: epochs vs loss (2) Testing Accuracy: epoch vs accuracy
 ![Model_integrity](/Screen Shot 2023-10-22 at 9.04.58 AM.png)
 
-VIZ_2: Model integrity - heatmap/matrixviz of layer 2
+VIZ_2: Model-Layer2 integrity - heatmap (1) heatmap/matrixviz of layer 2
 ![Model-Layer2 integrity](/Random_forest_featureimportance.png)
 
-VIZ_3: Feature Importance - barchart
+VIZ_3: Feature Importance - barchart (1)
  ![feature importance](/Random_forest_featureimportance.png)
 
 ## Part 3: Tensorflow (deep learning method for AI product development)
