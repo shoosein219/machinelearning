@@ -28,13 +28,13 @@ GRAPHS
 
    
 VIZ_1: Model integrity - line graphs (1) Training Loss: epochs vs loss (2) Testing Accuracy: epoch vs accuracy
-![Model_integrity](/Screen Shot 2023-10-22 at 9.04.58 AM.png)
+![Model_integrity](/Model_integrity.png)
 
 VIZ_2: Model-Layer2 integrity - heatmap (1) heatmap/matrixviz of layer 2
-![Model-Layer2 integrity](/Random_forest_featureimportance.png)
+![Model-Layer2 integrity](/Model-layer2_integrity.png)
 
 VIZ_3: Feature Importance - barchart (1)
- ![feature importance](/Random_forest_featureimportance.png)
+ ![feature importance](/Barchart_RFC_featureimportance.png)
 
 ## Part 3: Tensorflow (deep learning method for AI product development)
 ipynb_PY_script
