@@ -1,7 +1,8 @@
 # machinelearning examples
-Model architecture: (1) Random Forest (2) Neural Networks
+Model architecture: (1) Random Forest (2) Neural Networks: Pytorch (3) DeepLearning: Tensorflow
 
-## 1. Random forest regressor: training model.py ##
+
+## 1. Random forest regressor ##
  USING Parallel/Bootstrap Aggregation (Bagging) method: creates training subset from sample data
 
 data used: https://www.kaggle.com/datasets/usharengaraju/indian-women-in-defense
