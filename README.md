@@ -13,7 +13,7 @@ testing the effect of glucocorticosteroidal use in combination with more the com
 [ipynb_PY_script] (http://localhost:8889/notebooks/Desktop/github_repositories/Ex_MLwithGeneExpData.ipynb)
 
 GRAPHS
-- ![Histogram]([https://github.com/shoosein219/machinelearning/blob/main/figure_1.png])
+- ![Histogram](/figure_1.png)
 - actual vs. predicted values
 
 ## 2. Boosting algorithms via neural network models ##
