@@ -19,7 +19,7 @@ GRAPHS
 
 ## 2. Boosting algorithms via neural network models ##
 
-ipynb_PY_script
+[PyTorch_script] (/PyTorchExample.ipynb)
 
 1. Split and Pre-process data
 2. Define model of neural network
@@ -28,8 +28,10 @@ ipynb_PY_script
 
    
 VIZ_1: Model integrity - (1) Training loss across epochs (2) Testing Accuracy of Model across Epochs
+![Model_integrity](/Screen Shot 2023-10-22 at 9.04.58 AM.png)
 
 VIZ_2: Model integrity - heatmap/matrixviz of layer 2
+![Model-Layer2 integrity](/Random_forest_featureimportance.png)
 
 VIZ_3: Feature Importance - barchart
  ![feature importance](/Random_forest_featureimportance.png)
