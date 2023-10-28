@@ -28,7 +28,7 @@ ipynb_PY_script
 
    
 VIZ_1: Model integrity - (1) Training loss across epochs (2) Testing Accuracy of Model across Epochs
-  ![Histogram](/figure_1.png)
+
 VIZ_2: Model integrity - heatmap/matrixviz of layer 2
 
 VIZ_3: Feature Importance - barchart
