@@ -14,7 +14,7 @@ testing the effect of glucocorticosteroidal use in combination with more the com
 [Exploratory_ML ipynb_script](/Ex_MLwithGeneExpData.ipynb)
 
 GRAPHS
-- Histogram
+- Histogram of Feature Importance Data (Top10)
   ![Histogram](/figure_1.png)
 - actual vs. predicted values
 
@@ -28,13 +28,13 @@ GRAPHS
 4. Train and evaluate model
 
    
-VIZ_1: Model integrity - line graphs (1) Training Loss: epochs vs loss (2) Testing Accuracy: epoch vs accuracy
+- Model integrity - line graphs (1) Training Loss: epochs vs loss (2) Testing Accuracy: epoch vs accuracy
 ![Model_integrity](/Model_integrity.png)
 
-VIZ_2: Model-Layer2 integrity - heatmap (1) heatmap/matrixviz of layer 2
+- Model-Layer2 integrity - heatmap (1) heatmap/matrixviz of layer 2
 ![Model-Layer2 integrity](/Model-layer2_integrity.png)
 
-VIZ_3: Feature Importance - barchart (1)
+- Feature Importance - barchart (1)
  ![feature importance](/Barchart_RFC_featureimportance.png)
 
 ## Part 3: Tensorflow (deep learning method for AI product development)
