@@ -32,7 +32,7 @@ VIZ_1: Model integrity - (1) Training loss across epochs (2) Testing Accuracy of
 VIZ_2: Model integrity - heatmap/matrixviz of layer 2
 
 VIZ_3: Feature Importance - barchart
- ![feature importance] (/Random_forest_featureimportance.png)
+ ![feature importance](/Random_forest_featureimportance.png)
 
 ## Part 3: Tensorflow (deep learning method for AI product development)
 ipynb_PY_script
