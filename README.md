@@ -10,10 +10,11 @@ RNA-seq data from the human airway smooth muscle (HASM) transcriptome
 Data collected to understand treatment of drugs on asmatic patients
 testing the effect of glucocorticosteroidal use in combination with more the common Albuterol treatment
 
-[ipynb_PY_script] (http://localhost:8889/notebooks/Desktop/github_repositories/Ex_MLwithGeneExpData.ipynb)
+[ipynb_PY_script] (/Ex_MLwithGeneExpData.ipynb)
 
 GRAPHS
-- ![Histogram](/figure_1.png)
+- ![Histogram]
+  (/figure_1.png)
 - actual vs. predicted values
 
 ## 2. Boosting algorithms via neural network models ##
