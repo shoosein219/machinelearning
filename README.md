@@ -1,5 +1,5 @@
-# machinelearning (random forest)
-using Random forest tools used in microbiome research to understand patterns
+# machinelearning examples
+Model architecture: (1) Random Forest (2) Neural Networks
 
 ## 1. Random forest regressor: training model.py ##
  USING Parallel/Bootstrap Aggregation (Bagging) method: creates training subset from sample data
