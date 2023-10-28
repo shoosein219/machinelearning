@@ -16,7 +16,7 @@ GRAPHS
 - histogram
 - actual vs. predicted values
 
-## 2. Boosting algorithms ##
+## 2. Boosting algorithms via neural network models ##
 
 ipynb_PY_script
 Split and Pre-process data
@@ -29,11 +29,11 @@ VIZ_2: Model integrity - heatmap/matrixviz of layer 2
 
 VIZ_3: Feature Importance - barchart
 
-Part 3: Tensorflow (deep learning method for AI product development)
+## Part 3: Tensorflow (deep learning method for AI product development)
 ipynb_PY_script
-Data pre-processing
-Data splitting
-Model Architecture
-Model Compilation
-Training
-Evaluation
+1. Data pre-processing
+2. Data splitting
+3. Model Architecture
+4. Model Compilation
+5. Training
+6. Evaluation
