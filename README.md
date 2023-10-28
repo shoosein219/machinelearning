@@ -13,16 +13,19 @@ testing the effect of glucocorticosteroidal use in combination with more the com
 [ipynb_PY_script] (http://localhost:8889/notebooks/Desktop/github_repositories/Ex_MLwithGeneExpData.ipynb)
 
 GRAPHS
-- histogram
+- ![Histogram]([https://github.com/shoosein219/machinelearning/blob/main/figure_1.png])
 - actual vs. predicted values
 
 ## 2. Boosting algorithms via neural network models ##
 
 ipynb_PY_script
-Split and Pre-process data
-Define model of neural network
-Define loss and optimizer
-Train and evaluate model
+
+1. Split and Pre-process data
+2. Define model of neural network
+3. Define loss and optimizer
+4. Train and evaluate model
+
+   
 VIZ_1: Model integrity - (1) Training loss across epochs (2) Testing Accuracy of Model across Epochs
 
 VIZ_2: Model integrity - heatmap/matrixviz of layer 2
